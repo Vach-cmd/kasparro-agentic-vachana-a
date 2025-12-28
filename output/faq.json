@@ -8,9 +8,24 @@
       "answer": "GlowBoost Vitamin C Serum is a skincare serum with 10% Vitamin C, designed for Oily and Combination skin types."
     },
     {
+      "category": "Informational",
+      "question": "What concentration of Vitamin C does this serum contain?",
+      "answer": "This serum contains 10% Vitamin C."
+    },
+    {
+      "category": "Informational",
+      "question": "Which skin types is this product suitable for?",
+      "answer": "This product is suitable for Oily and Combination skin types."
+    },
+    {
       "category": "Safety",
       "question": "Are there any side effects?",
       "answer": "Mild tingling for sensitive skin."
+    },
+    {
+      "category": "Safety",
+      "question": "Can I use this if I have sensitive skin?",
+      "answer": "Users with sensitive skin may experience mild tingling for sensitive skin. It's recommended to perform a patch test first."
     },
     {
       "category": "Usage",
@@ -18,9 +33,34 @@
       "answer": "Apply 2–3 drops in the morning before sunscreen"
     },
     {
+      "category": "Usage",
+      "question": "When should I apply this serum in my routine?",
+      "answer": "Apply in the morning before sunscreen, after cleansing and toning."
+    },
+    {
+      "category": "Usage",
+      "question": "How many drops should I use?",
+      "answer": "Use 2-3 drops for optimal results."
+    },
+    {
+      "category": "Usage",
+      "question": "Can I use this serum daily?",
+      "answer": "Yes, this serum is designed for daily use in your morning skincare routine."
+    },
+    {
+      "category": "Usage",
+      "question": "Do I need to use sunscreen with this serum?",
+      "answer": "Yes, always follow with sunscreen when using vitamin C products in the morning."
+    },
+    {
       "category": "Purchase",
       "question": "What is the price of this serum?",
       "answer": "The GlowBoost Vitamin C Serum is priced at ₹699."
+    },
+    {
+      "category": "Purchase",
+      "question": "Is this product worth the investment?",
+      "answer": "At ₹699, this serum offers brightening, fades dark spots benefits with quality ingredients like Vitamin C and Hyaluronic Acid."
     },
     {
       "category": "Comparison",
@@ -33,34 +73,14 @@
       "answer": "The key ingredients are Vitamin C and Hyaluronic Acid."
     },
     {
-      "category": "Benefits",
-      "question": "What are the main benefits of this serum?",
-      "answer": "The main benefits include brightening and fades dark spots."
-    },
-    {
-      "category": "Informational",
-      "question": "What concentration of Vitamin C does this serum contain?",
-      "answer": "This serum contains 10% Vitamin C."
-    },
-    {
-      "category": "Safety",
-      "question": "Can I use this if I have sensitive skin?",
-      "answer": "Users with sensitive skin may experience mild tingling for sensitive skin. It's recommended to perform a patch test first."
-    },
-    {
-      "category": "Usage",
-      "question": "When should I apply this serum in my routine?",
-      "answer": "Apply in the morning before sunscreen, after cleansing and toning."
-    },
-    {
-      "category": "Purchase",
-      "question": "Is this product worth the investment?",
-      "answer": "At ₹699, this serum offers brightening, fades dark spots benefits with quality ingredients like Vitamin C and Hyaluronic Acid."
-    },
-    {
       "category": "Ingredients",
       "question": "What does Hyaluronic Acid do in this formula?",
       "answer": "Hyaluronic Acid provides hydration and helps the skin retain moisture."
+    },
+    {
+      "category": "Benefits",
+      "question": "What are the main benefits of this serum?",
+      "answer": "The main benefits include brightening and fades dark spots."
     },
     {
       "category": "Benefits",
@@ -69,17 +89,17 @@
     }
   ],
   "metadata": {
-    "total_questions": 13,
+    "total_questions": 17,
     "categories": [
-      "Purchase",
+      "Comparison",
       "Usage",
       "Ingredients",
-      "Safety",
+      "Purchase",
+      "Benefits",
       "Informational",
-      "Comparison",
-      "Benefits"
+      "Safety"
     ],
-    "generated_at": "2025-12-28T15:10:00.779490",
+    "generated_at": "2025-12-28T19:04:44.539568",
     "template": "FAQTemplate",
     "version": "1.0"
   }

@@ -118,6 +118,16 @@ class QuestionGeneratorAgent(BaseAgent):
                 category="Usage",
                 question="How many drops should I use?",
                 answer="Use 2-3 drops for optimal results."
+            ),
+            Question(
+                category="Usage",
+                question="Can I use this serum daily?",
+                answer="Yes, this serum is designed for daily use in your morning skincare routine."
+            ),
+            Question(
+                category="Usage",
+                question="Do I need to use sunscreen with this serum?",
+                answer="Yes, always follow with sunscreen when using vitamin C products in the morning."
             )
         ]
     
