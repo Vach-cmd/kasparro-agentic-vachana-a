@@ -1,0 +1,127 @@
+{
+  "product_name": "GlowBoost Vitamin C Serum",
+  "tagline": "10% Vitamin C Brightening Serum for Radiant Skin",
+  "hero_description": "Transform your skin with GlowBoost Vitamin C Serum, a powerful 10% Vitamin C serum formulated with Vitamin C and Hyaluronic Acid. Designed specifically for oily and combination skin, this serum delivers brightening and fades dark spots results.",
+  "key_features": [
+    {
+      "feature": "10% Vitamin C Formula",
+      "description": "Clinically effective concentration for visible results",
+      "icon": "🔬"
+    },
+    {
+      "feature": "Dual-Action Ingredients",
+      "description": "Combines Vitamin C and Hyaluronic Acid for maximum efficacy",
+      "icon": "⚡"
+    },
+    {
+      "feature": "Skin Type Optimized",
+      "description": "Perfect for oily and combination skin",
+      "icon": "✓"
+    }
+  ],
+  "ingredients_section": {
+    "title": "Star Ingredients",
+    "subtitle": "Science-Backed Actives That Work",
+    "concentration": "10% Vitamin C",
+    "ingredients": [
+      {
+        "name": "Vitamin C",
+        "scientific_name": "Ascorbic Acid",
+        "description": "A powerful antioxidant that brightens skin and boosts collagen production",
+        "benefits": [
+          "Brightening",
+          "Anti-aging",
+          "Antioxidant protection"
+        ]
+      },
+      {
+        "name": "Hyaluronic Acid",
+        "scientific_name": "Sodium Hyaluronate",
+        "description": "A moisture-binding ingredient that hydrates and plumps skin",
+        "benefits": [
+          "Deep hydration",
+          "Plumping",
+          "Moisture retention"
+        ]
+      }
+    ],
+    "formula_type": "Brightening + Hydrating Formula"
+  },
+  "benefits_section": {
+    "title": "Key Benefits",
+    "subtitle": "What GlowBoost Vitamin C Serum Does For Your Skin",
+    "benefits": [
+      {
+        "benefit": "Brightening",
+        "description": "Powered by 10% Vitamin C, this serum helps reveal a more radiant and even-toned complexion.",
+        "icon": "✨"
+      },
+      {
+        "benefit": "Fades dark spots",
+        "description": "Targets hyperpigmentation and dark spots, promoting a clearer, more uniform skin tone over time.",
+        "icon": "🎯"
+      }
+    ],
+    "summary": "Experience brightening and fades dark spots with consistent use."
+  },
+  "usage_section": {
+    "title": "How to Use",
+    "subtitle": "Get the Most Out of Your Serum",
+    "instructions": "Apply 2–3 drops in the morning before sunscreen",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Cleanse",
+        "description": "Start with a clean, dry face"
+      },
+      {
+        "step": 2,
+        "action": "Apply",
+        "description": "Apply 2-3 drops of serum to your face and neck"
+      },
+      {
+        "step": 3,
+        "action": "Massage",
+        "description": "Gently massage in upward motions until absorbed"
+      },
+      {
+        "step": 4,
+        "action": "Protect",
+        "description": "Follow with sunscreen as directed"
+      }
+    ],
+    "frequency": "Once daily (morning)",
+    "timing": "Before sunscreen application",
+    "tips": [
+      "Store in a cool, dark place to maintain potency",
+      "Suitable for oily and combination skin",
+      "Perform a patch test before first use"
+    ]
+  },
+  "safety_section": {
+    "title": "Safety & Side Effects",
+    "side_effects": "Mild tingling for sensitive skin",
+    "precautions": [
+      "Perform a patch test before first use",
+      "Discontinue use if irritation occurs",
+      "Consult a dermatologist if you have concerns"
+    ],
+    "storage": "Store in a cool, dry place away from direct sunlight"
+  },
+  "pricing_section": {
+    "title": "Pricing",
+    "price": "₹699",
+    "value_proposition": "Premium 10% Vitamin C serum at an accessible price point",
+    "includes": "Full-size 30ml bottle"
+  },
+  "metadata": {
+    "generated_at": "2025-12-28T14:38:15.302425",
+    "template": "ProductPageTemplate",
+    "version": "1.0",
+    "content_blocks_used": [
+      "BenefitsBlock",
+      "UsageBlock",
+      "IngredientsBlock"
+    ]
+  }
+}

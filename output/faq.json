@@ -1,0 +1,86 @@
+{
+  "title": "Frequently Asked Questions - GlowBoost Vitamin C Serum",
+  "product_name": "GlowBoost Vitamin C Serum",
+  "questions": [
+    {
+      "category": "Informational",
+      "question": "What is GlowBoost Vitamin C Serum?",
+      "answer": "GlowBoost Vitamin C Serum is a skincare serum with 10% Vitamin C, designed for Oily and Combination skin types."
+    },
+    {
+      "category": "Safety",
+      "question": "Are there any side effects?",
+      "answer": "Mild tingling for sensitive skin."
+    },
+    {
+      "category": "Usage",
+      "question": "How do I use this serum?",
+      "answer": "Apply 2–3 drops in the morning before sunscreen"
+    },
+    {
+      "category": "Purchase",
+      "question": "What is the price of this serum?",
+      "answer": "The GlowBoost Vitamin C Serum is priced at ₹699."
+    },
+    {
+      "category": "Comparison",
+      "question": "How does this compare to other Vitamin C serums?",
+      "answer": "This serum stands out with its 10% Vitamin C formulation combined with Vitamin C and Hyaluronic Acid."
+    },
+    {
+      "category": "Ingredients",
+      "question": "What are the key ingredients?",
+      "answer": "The key ingredients are Vitamin C and Hyaluronic Acid."
+    },
+    {
+      "category": "Benefits",
+      "question": "What are the main benefits of this serum?",
+      "answer": "The main benefits include brightening and fades dark spots."
+    },
+    {
+      "category": "Informational",
+      "question": "What concentration of Vitamin C does this serum contain?",
+      "answer": "This serum contains 10% Vitamin C."
+    },
+    {
+      "category": "Safety",
+      "question": "Can I use this if I have sensitive skin?",
+      "answer": "Users with sensitive skin may experience mild tingling for sensitive skin. It's recommended to perform a patch test first."
+    },
+    {
+      "category": "Usage",
+      "question": "When should I apply this serum in my routine?",
+      "answer": "Apply in the morning before sunscreen, after cleansing and toning."
+    },
+    {
+      "category": "Purchase",
+      "question": "Is this product worth the investment?",
+      "answer": "At ₹699, this serum offers brightening, fades dark spots benefits with quality ingredients like Vitamin C and Hyaluronic Acid."
+    },
+    {
+      "category": "Ingredients",
+      "question": "What does Hyaluronic Acid do in this formula?",
+      "answer": "Hyaluronic Acid provides hydration and helps the skin retain moisture."
+    },
+    {
+      "category": "Benefits",
+      "question": "How long until I see results?",
+      "answer": "With consistent use, you may start seeing brightening effects within 2-4 weeks."
+    }
+  ],
+  "metadata": {
+    "total_questions": 13,
+    "categories": [
+      "Safety",
+      "Usage",
+      "Benefits",
+      "Comparison",
+      "Purchase",
+      "Informational",
+      "Ingredients"
+    ],
+    "generated_at": "2025-12-28T14:38:15.301964",
+    "template": "FAQTemplate",
+    "version": "1.0"
+  }
+}

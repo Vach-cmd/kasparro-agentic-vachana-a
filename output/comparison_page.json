@@ -1,0 +1,83 @@
+{
+  "title": "GlowBoost Vitamin C Serum vs RadiantGlow C+ Serum",
+  "product_a": {
+    "name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "price": "₹699",
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ]
+  },
+  "product_b": {
+    "name": "RadiantGlow C+ Serum",
+    "concentration": "15% Vitamin C",
+    "price": "₹899",
+    "skin_type": [
+      "Dry",
+      "Normal",
+      "Combination"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Vitamin E",
+      "Ferulic Acid"
+    ],
+    "benefits": [
+      "Anti-aging",
+      "Brightening",
+      "Firming"
+    ]
+  },
+  "comparison_matrix": [
+    {
+      "criterion": "Vitamin C Concentration",
+      "product_a_value": "10% Vitamin C",
+      "product_b_value": "15% Vitamin C",
+      "winner": "product_b"
+    },
+    {
+      "criterion": "Key Ingredients",
+      "product_a_value": "Vitamin C, Hyaluronic Acid",
+      "product_b_value": "Vitamin C, Vitamin E, Ferulic Acid",
+      "winner": "product_b"
+    },
+    {
+      "criterion": "Skin Type Compatibility",
+      "product_a_value": "Oily, Combination",
+      "product_b_value": "Dry, Normal, Combination",
+      "winner": "product_b"
+    },
+    {
+      "criterion": "Primary Benefits",
+      "product_a_value": "Brightening, Fades dark spots",
+      "product_b_value": "Anti-aging, Brightening, Firming",
+      "winner": "tie"
+    },
+    {
+      "criterion": "Price",
+      "product_a_value": "₹699",
+      "product_b_value": "₹899",
+      "winner": "product_a"
+    }
+  ],
+  "recommendation": {
+    "recommended_product": "RadiantGlow C+ Serum",
+    "reason": "RadiantGlow C+ Serum provides superior benefits and formulation.",
+    "best_for": "Best for dry and normal and combination skin seeking anti-aging and brightening and firming"
+  },
+  "metadata": {
+    "generated_at": "2025-12-28T14:38:15.302888",
+    "template": "ComparisonTemplate",
+    "version": "1.0",
+    "comparison_criteria_count": 5
+  }
+}
