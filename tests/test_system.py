@@ -30,7 +30,7 @@ def test_data_parser():
         "skin_type": ["Oily"],
         "key_ingredients": ["Ingredient A"],
         "benefits": ["Benefit A"],
-        "how_to_use": "Apply daily",
+        "how_to_use": "Apply daily in the morning",
         "side_effects": "None",
         "price": "₹500"
     }
@@ -52,7 +52,7 @@ def test_question_generator():
         skin_type=["Oily"],
         key_ingredients=["Ingredient A"],
         benefits=["Benefit A"],
-        how_to_use="Apply daily",
+        how_to_use="Apply daily in the morning",
         side_effects="None",
         price="₹500"
     )
@@ -74,7 +74,7 @@ def test_content_blocks():
         skin_type=["Oily"],
         key_ingredients=["Vitamin C"],
         benefits=["Brightening"],
-        how_to_use="Apply daily",
+        how_to_use="Apply daily in the morning",
         side_effects="None",
         price="₹500"
     )
@@ -109,7 +109,7 @@ def test_templates():
         skin_type=["Oily"],
         key_ingredients=["Vitamin C"],
         benefits=["Brightening"],
-        how_to_use="Apply daily",
+        how_to_use="Apply daily in the morning",
         side_effects="None",
         price="₹500"
     )
@@ -144,7 +144,7 @@ def test_full_pipeline():
         "skin_type": ["Oily"],
         "key_ingredients": ["Vitamin C"],
         "benefits": ["Brightening"],
-        "how_to_use": "Apply daily",
+        "how_to_use": "Apply daily in the morning",
         "side_effects": "None",
         "price": "₹500"
     }
