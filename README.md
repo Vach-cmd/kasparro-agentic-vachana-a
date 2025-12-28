@@ -150,10 +150,4 @@ python tests/test_system.py
 - Pydantic 2.10.4
 - typing-extensions 4.12.2
 
-## License
 
-MIT License - see LICENSE file
-
-## Author
-
-Vachana
