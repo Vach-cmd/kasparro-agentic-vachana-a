@@ -25,7 +25,7 @@ This project implements a **production-grade multi-agent content generation syst
 
 ## Scopes & Assumptions
 
-### In Scope
+### Scope
 - ✅ Parsing and validating product data
 - ✅ Generating 15+ categorized questions across 7 categories
 - ✅ Creating 3 distinct page types (FAQ, Product, Comparison)
@@ -34,12 +34,7 @@ This project implements a **production-grade multi-agent content generation syst
 - ✅ Machine-readable JSON output
 - ✅ Multi-agent orchestration with clear workflow
 
-### Out of Scope
-- ❌ External API calls or research
-- ❌ LLM/GPT integration (pure logic-based generation)
-- ❌ UI/frontend implementation
-- ❌ Database persistence
-- ❌ Real-time processing or web server
+
 
 ### Assumptions
 - Input data follows the specified product data schema
@@ -55,8 +50,8 @@ The system implements a **layered architecture** with clear separation of concer
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                   Orchestrator Layer                     │
-│              (DAG-based Workflow Control)                │
+│                   Orchestrator Layer                    │
+│              (DAG-based Workflow Control)               │
 └─────────────────────────────────────────────────────────┘
                             │
         ┌───────────────────┼───────────────────┐
@@ -260,9 +255,4 @@ The system is designed for easy extension:
 - **Type Safety**: Pydantic models enforce contracts
 - **Extensibility**: Open-Closed Principle for new agents/blocks/templates
 
----
 
-**System Version**: 1.0  
-**Architecture Pattern**: Multi-Agent DAG-based Orchestration  
-**Language**: Python 3.8+  
-**Dependencies**: Pydantic, typing-extensions
