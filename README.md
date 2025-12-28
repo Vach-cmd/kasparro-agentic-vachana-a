@@ -141,8 +141,7 @@ python tests/test_system.py
 
 - `README.md`: This file
 - `docs/projectdocumentation.md`: Detailed system design
-- `QUICKSTART.md`: Getting started guide
-- `PROJECT_SUMMARY.md`: Project achievements
+
 
 ## Requirements
 
