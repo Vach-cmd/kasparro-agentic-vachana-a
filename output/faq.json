@@ -91,15 +91,15 @@
   "metadata": {
     "total_questions": 17,
     "categories": [
-      "Comparison",
-      "Usage",
-      "Ingredients",
       "Purchase",
+      "Usage",
+      "Safety",
+      "Comparison",
       "Benefits",
-      "Informational",
-      "Safety"
+      "Ingredients",
+      "Informational"
     ],
-    "generated_at": "2025-12-28T19:04:44.539568",
+    "generated_at": "2025-12-28T19:05:57.533112",
     "template": "FAQTemplate",
     "version": "1.0"
   }
